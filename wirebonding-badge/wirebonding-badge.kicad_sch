@@ -2510,7 +2510,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "4671aa39-3f5d-47cf-9dc6-1b9f6c2ee9dd")
 		(property "Reference" "#FLG02"
 			(at 92.71 78.105 0)
@@ -2522,7 +2521,7 @@
 			)
 		)
 		(property "Value" "VIN"
-			(at 92.71 74.93 0)
+			(at 89.662 78.232 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2661,7 +2660,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1TS009xxxx-xxxx-xxxx_6x6x5mm"
 			(at 195.58 68.58 0)
 			(effects
 				(font
@@ -2860,7 +2859,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1TS009xxxx-xxxx-xxxx_6x6x5mm"
 			(at 195.58 71.12 0)
 			(effects
 				(font
@@ -3064,7 +3063,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1TS009xxxx-xxxx-xxxx_6x6x5mm"
 			(at 195.58 66.04 0)
 			(effects
 				(font
@@ -3249,7 +3248,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "bafd3373-fb61-4b9e-a987-aa7d9afba2e2")
 		(property "Reference" "#PWR03"
 			(at 95.25 83.82 0)
@@ -3333,7 +3331,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_6mm"
+		(property "Footprint" "Button_Switch_SMD:SW_Push_1TS009xxxx-xxxx-xxxx_6x6x5mm"
 			(at 132.08 68.58 0)
 			(effects
 				(font
@@ -3385,7 +3383,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d74415ba-280d-4792-a527-cb8b22e7f76e")
-		(property "Reference" "U3"
+		(property "Reference" "U2"
 			(at 109.22 72.39 0)
 			(effects
 				(font
@@ -3448,7 +3446,7 @@
 		(instances
 			(project ""
 				(path "/8afb07c1-0d4a-47c5-a84f-de9373340fc4"
-					(reference "U3")
+					(reference "U2")
 					(unit 1)
 				)
 			)
